@@ -1,6 +1,6 @@
 Breaking Democracy
 =
-A web game
+A web game I created with my Senior Design Team in CIS 642 and CIS 643.
 
 Instructions
 =
